@@ -1,5 +1,5 @@
-# 💫 About Me:
-I can spend hours debugging code… and sometimes the problem is just a missing ; . 😂
+# About Me:
+
 
 
 ## 🌐 Socials:
